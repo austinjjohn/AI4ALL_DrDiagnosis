@@ -1,1 +1,1 @@
-# AI4ALL_DrDiagnosis
+# Dr. Diagnosis
